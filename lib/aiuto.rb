@@ -45,7 +45,7 @@ class Aiuto
       ruby_word = true
       args.each do |word|
         case word
-        when "--f", "--filter"
+        when "-f", "--filter"
           to_blog = true
           to_word = false
         when "-no", "--no-filter"
@@ -58,7 +58,7 @@ class Aiuto
           if to_word
             words << word
           elsif to_blog
-            blogs << blog
+            blogs << word
           end
         end
       end
