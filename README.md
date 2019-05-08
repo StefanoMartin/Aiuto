@@ -9,15 +9,15 @@ Install the gem with:
 gem install aiuto
 ```
 
-Then try with:
+Then try it with:
 
 ```
 aiuto Ruby is awesome
 ```
 
-YEAH! Google is open and there are only Ruby blogs, forums and similia. No page about stones and jewels!
+YEAH! Google is open and there are only Ruby blogs, forums and similia. No pages about stones and jewels!
 
-## Which websites do you use?
+## Which websites do you use for filtering?
 
 This is the list of websites used in the gem.
 However by default only the websites under "blog", "git", "docs" and "social" are used by default.
@@ -57,13 +57,13 @@ aiuto Rails is awesome -f rails beginner
 
 In this case we filter by using the websites in the group "rails" and "beginner".
 
-## Do you have other commands like "-f"?
+## Do you have other commands like "-f" ?
 
 Yes! I provide ```-no``` to remove all the filters, and ```-r``` to remove the word "ruby" from the search.
 
 Futher I add ```aiuto --help``` for helps on the terminal and ```aiuto --list``` for returning the above list.
 
-## Hey! I want to use DuckDuckGo or other filters?
+## Hey! I want to use DuckDuckGo or other filters
 
 Please create issue or do some pull requests for any idea you have.
-I am more than welcome to improve this gem with your help.
+I am more than welcome to improve this gem with your help. :smile:
