@@ -65,5 +65,5 @@ Futher I add ```aiuto --help``` for helps on the terminal and ```aiuto --list```
 
 ## Hey! I want to use DuckDuckGo or other filters
 
-Please create issue or do some pull requests for any idea you have.
+Please create issue or do some pull requests for any idea you have.  
 I am more than welcome to improve this gem with your help. :smile:
