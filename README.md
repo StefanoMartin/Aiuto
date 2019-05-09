@@ -1,7 +1,7 @@
 Aiuto [![Gem Version](https://badge.fury.io/rb/aiuto.svg)](https://badge.fury.io/rb/aiuto)
 ==================================
 
-Aiuto means "help" in Italian. This is a gem to help you to search easily on Google by filtering on specific websites.
+Aiuto means "help" in Italian. This is a gem to help you to search Ruby helpers on Google by filtering on specific websites.
 
 Install the gem with:
 
